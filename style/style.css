@@ -1132,6 +1132,12 @@ a{
     .phone_header{
         display:inline-block !important;
     }
+
+    #instagram .d-flex{
+        display: flex !important;
+        justify-content: center;
+        flex-wrap: wrap;      
+    }
 }
 
 .phone_header .container-sm .phone_top{
